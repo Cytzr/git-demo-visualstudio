@@ -60,7 +60,7 @@ namespace Git.Training.Services
 		{
 			try
 			{
-				return new OkObjectResult("Hello conflict");
+				return new OkObjectResult("Halo lagi");
 			}
 			catch (Exception ex)
 			{
